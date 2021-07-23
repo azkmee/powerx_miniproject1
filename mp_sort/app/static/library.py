@@ -1,4 +1,4 @@
-# from org.transcrypt.stubs.browser import *
+from org.transcrypt.stubs.browser import *
 import random
 
 array = []
